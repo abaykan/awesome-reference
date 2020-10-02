@@ -135,6 +135,7 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 - [https://abaykan.com/](https://abaykan.com/)
 - [https://infosec.zerobyte.id/](https://infosec.zerobyte.id/)
 - [http://nakanosec.com/](http://nakanosec.com/)
+- [https://apapedulimu.click/](https://apapedulimu.click/)
 
 #### English
 
@@ -146,6 +147,8 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 - [https://hackersonlineclub.com/](https://hackersonlineclub.com/)
 - [https://owasp.org/www-community/](https://owasp.org/www-community/)
 - [https://portswigger.net/web-security/all-labs](https://portswigger.net/web-security/all-labs)
+- [https://brutelogic.com.br/blog/](https://brutelogic.com.br/blog/)
+
 
 ### Youtube Channel
 
